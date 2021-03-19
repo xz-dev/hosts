@@ -15,6 +15,9 @@ qn.yingyonghui.com
 # ele me
 @@||ele.me^
 
+# meituan
+@@|p*.meituan.net^
+
 # baidu apps
 naotu.baidu.com
 mime.baidu.com
