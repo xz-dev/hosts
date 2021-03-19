@@ -1,0 +1,69 @@
+# qq
+@@||gtimg.cn^
+@@||idqqimg.com^
+
+# music
+music.126.net
+# uu
+@@||uu.163.com^
+
+# appchina
+mobile.appchina.com
+static.yingyonghui.com
+qn.yingyonghui.com
+
+# ele me
+@@||ele.me^
+
+# baidu apps
+naotu.baidu.com
+mime.baidu.com
+zhidao.baidu.com
+wk.baidu.com
+baike.baidu.com
+pan.baidu.com
+map.baidu.com
+# baidu login
+wappass.baidu.com
+passport.baidu.com
+
+# naifei shop
+@@||naifei.shop^
+
+# v2ex
+i.v2ex.co
+# loli
+@@||loli.net^
+
+# uplay
+@@||origin.com^
+@@||ea.com^
+
+# jingdong
+@@||360buyimg.com^
+
+# sina
+sinaimg.cn
+
+# alipay app
+aliapp.org
+
+# missevan
+missevan.com
+
+# douyu
+douyucdn.cn
+
+# miui connect checker
+connect.rom.miui.com
+
+# lanzous
+lanzous.com
+
+# eudic
+dict.eudic.net
+
+# bilibili login
+passport.biligame.com
+passport.bigfun.cn
+passport.bigfunapp.cn
