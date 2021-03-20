@@ -10,9 +10,9 @@
 @@||uu.163.com^
 
 # appchina
-mobile.appchina.com
-static.yingyonghui.com
-qn.yingyonghui.com
+@@|mobile.appchina.com^
+@@|static.yingyonghui.com^
+@@|qn.yingyonghui.com^
 
 # meituan
 @@||meituan.net^
@@ -20,26 +20,24 @@ qn.yingyonghui.com
 # ele me
 @@||ele.me^
 
-# meituan
-@@|p*.meituan.net^
 
 # baidu apps
-naotu.baidu.com
-mime.baidu.com
-zhidao.baidu.com
-wk.baidu.com
-baike.baidu.com
-pan.baidu.com
-map.baidu.com
+@@|naotu.baidu.com^
+@@|mime.baidu.com^
+@@|zhidao.baidu.com^
+@@|wk.baidu.com^
+@@|baike.baidu.com^
+@@|pan.baidu.com^
+@@|map.baidu.com^
 # baidu login
-wappass.baidu.com
-passport.baidu.com
+@@|wappass.baidu.com^
+@@|passport.baidu.com^
 
 # naifei shop
 @@||naifei.shop^
 
 # v2ex
-i.v2ex.co
+@@|i.v2ex.co^
 # loli
 @@||loli.net^
 
@@ -51,28 +49,31 @@ i.v2ex.co
 @@||360buyimg.com^
 
 # sina
-sinaimg.cn
+@@|sinaimg.cn^
 
 # alipay app
-aliapp.org
+@@|aliapp.org^
 
 # missevan
-missevan.com
+@@|missevan.com^
 
 # douyu
-douyucdn.cn
+@@|douyucdn.cn^
 
 # miui connect checker
-connect.rom.miui.com
+@@|connect.rom.miui.com^
 
 # lanzous
-lanzous.com
+@@|lanzous.com^
 
 # eudic
-dict.eudic.net
-static.eudic.net
+@@|dict.eudic.net^
+@@|static.eudic.net^
 
 # bilibili login
-passport.biligame.com
-passport.bigfun.cn
-passport.bigfunapp.cn
+@@|passport.biligame.com^
+@@|passport.bigfun.cn^
+@@|passport.bigfunapp.cn^
+
+# ip.sb tool
+@@||ip.sb^
