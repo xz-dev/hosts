@@ -77,3 +77,9 @@
 
 # ip.sb tool
 @@||ip.sb^
+
+# Pornhub
+@@||pornhubpremium.com^
+
+# RedHat
+@@||redhat.com^
