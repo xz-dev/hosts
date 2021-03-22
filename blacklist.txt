@@ -1,2 +1,5 @@
 # CoolApk
-kepler.jd.com
+|kepler.jd.com^
+
+# bilibili
+|show.bilibili.com^
