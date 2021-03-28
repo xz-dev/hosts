@@ -86,3 +86,10 @@
 
 # Midia
 @@||midea.com^
+
+# DNS service
+@@||alidns.com^
+@@||dnspod.cn^
+
+# Porn
+@@||xnxx.com^
