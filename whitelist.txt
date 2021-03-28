@@ -29,6 +29,7 @@
 @@|baike.baidu.com^
 @@|pan.baidu.com^
 @@|map.baidu.com^
+@@|jingyan.baidu.com^
 # baidu login
 @@|wappass.baidu.com^
 @@|passport.baidu.com^
