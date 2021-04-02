@@ -4,6 +4,9 @@
 # QQ login
 @@||graph.qq.com^
 
+# weixin
+@@|mp.weixin.qq.com^
+
 # NetEase Cloud Music
 @@||music.126.net^
 # uu
@@ -33,6 +36,9 @@
 # baidu login
 @@|wappass.baidu.com^
 @@|passport.baidu.com^
+# baidu input
+@@|pcs.baidu.com^
+@@||baidupcs.com^
 
 # naifei shop
 @@||naifei.shop^
@@ -59,7 +65,8 @@
 @@|missevan.com^
 
 # douyu
-@@|douyucdn.cn^
+@@|gift.douyucdn.cn^
+
 
 # miui connect checker
 @@|connect.rom.miui.com^
