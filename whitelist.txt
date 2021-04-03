@@ -14,8 +14,7 @@
 
 # appchina
 @@|mobile.appchina.com^
-@@|static.yingyonghui.com^
-@@|qn.yingyonghui.com^
+@@||yingyonghui.com^
 
 # meituan
 @@||meituan.net^
