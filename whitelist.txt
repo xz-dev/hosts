@@ -72,6 +72,7 @@
 
 # lanzous
 @@|lanzous.com^
+@@|xqe.lanzous.com^
 
 # eudic
 @@|dict.eudic.net^
@@ -103,3 +104,6 @@
 
 # java docs
 @@|docs.oracle.com^
+
+# Firebase
+@@||firebase.google.com^
