@@ -16,6 +16,9 @@
 @@|mobile.appchina.com^
 @@||yingyonghui.com^
 
+# missevan
+@@||missevan.com^
+
 # meituan
 @@||meituan.net^
 @@||meituan.com^
