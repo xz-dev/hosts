@@ -116,3 +116,13 @@
 
 # Firebase
 @@||firebase.google.com^
+
+# Windows Update
+@@||update.microsoft.com^
+@@||windowsupdate.com^
+@@||delivery.mp.microsoft.com^
+
+# Xbox Live
+@@||xboxlive.com^
+@@||live.net^
+@@||wns.windows.com^
