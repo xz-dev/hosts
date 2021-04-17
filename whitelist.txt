@@ -126,3 +126,6 @@
 @@||xboxlive.com^
 @@||live.net^
 @@||wns.windows.com^
+
+# Nvidia Geforce Experience
+@@||gfe.nvidia.com^
