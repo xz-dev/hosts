@@ -11,6 +11,13 @@
 @@||music.126.net^
 # uu
 @@||uu.163.com^
+# 163 mail
+@@|smtp.163.com^
+@@|imap.163.com^
+
+# douyu drop
+@@|dotcounter.douyucdn.cn^
+@@|apm.douyucdn.cn^
 
 # appchina
 @@|mobile.appchina.com^
@@ -24,7 +31,6 @@
 @@||meituan.com^
 # ele me
 @@||ele.me^
-
 
 # baidu apps
 @@|naotu.baidu.com^
