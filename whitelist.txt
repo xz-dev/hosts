@@ -51,6 +51,9 @@
 # naifei shop
 @@||naifei.shop^
 
+# Globally Recognized Avatar
+@@||gravatar.com^
+
 # v2ex
 @@|i.v2ex.co^
 # loli
