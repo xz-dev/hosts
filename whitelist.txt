@@ -131,11 +131,15 @@
 
 # Firebase
 @@||firebase.google.com^
+@@||analytics.google.com^
 
 # Windows Update
 @@||update.microsoft.com^
 @@||windowsupdate.com^
 @@||delivery.mp.microsoft.com^
+
+# Microsoft Service
+@@||microsoft.com^
 
 # Xbox Live
 @@||xboxlive.com^
