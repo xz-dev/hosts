@@ -28,7 +28,6 @@
 # douyu drop
 @@|dotcounter.douyucdn.cn^
 @@|apm.douyucdn.cn^
-@@|rtbapi.douyucdn.cn^
 
 # appchina
 @@|mobile.appchina.com^
