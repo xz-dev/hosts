@@ -18,6 +18,7 @@
 # douyu drop
 @@|dotcounter.douyucdn.cn^
 @@|apm.douyucdn.cn^
+@@|rtbapi.douyucdn.cn^
 
 # appchina
 @@|mobile.appchina.com^
@@ -70,7 +71,8 @@
 @@|sinaimg.cn^
 
 # alipay app
-@@|aliapp.org^
+@@||aliapp.org^
+
 
 # missevan
 @@|missevan.com^
