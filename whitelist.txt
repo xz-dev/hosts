@@ -15,6 +15,16 @@
 @@|smtp.163.com^
 @@|imap.163.com^
 
+# huobi
+@@||huobi-global-prd.cn-hangzhou.log.aliyuncs.com^
+@@||huobiasia.club^
+@@||huobiasia.vip^
+@@||hbfile.net^
+@@||report.woodpeckerlog.com^$important
+@@||getui.com^
+@@||app-measurement.com
+@@||huobichat.com^
+
 # douyu drop
 @@|dotcounter.douyucdn.cn^
 @@|apm.douyucdn.cn^
