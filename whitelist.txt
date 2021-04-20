@@ -110,8 +110,11 @@
 # ip.sb tool
 @@||ip.sb^
 
-# Pornhub
+# Porn
 @@||pornhubpremium.com^
+@@||theporndude.com^
+@@||xhamsterlive.com^
+@@||xnxx.com^
 
 # RedHat
 @@||redhat.com^
@@ -122,9 +125,6 @@
 # DNS service
 @@||alidns.com^
 @@||dnspod.cn^
-
-# Porn
-@@||xnxx.com^
 
 # java docs
 @@|docs.oracle.com^
