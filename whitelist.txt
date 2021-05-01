@@ -131,6 +131,7 @@
 # Firebase
 @@||firebase.google.com^
 @@||analytics.google.com^
+@@|firebaselogging-pa.googleapis.com^
 
 # Windows Update
 @@||update.microsoft.com^
