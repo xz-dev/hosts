@@ -141,6 +141,9 @@
 # Microsoft Service
 @@||microsoft.com^
 
+# OneNote
+@@||onenote.com^
+
 # Xbox Live
 @@||xboxlive.com^
 @@||live.net^
@@ -148,3 +151,9 @@
 
 # Nvidia Geforce Experience
 @@||gfe.nvidia.com^
+
+# vmos
+@@||vmos.cn^
+
+# twitch
+@@||twitch.tv^
