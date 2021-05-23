@@ -141,6 +141,16 @@
 @@||analytics.google.com^
 @@|firebaselogging-pa.googleapis.com^
 
+# bing
+@@|www.bing.com^
+@@|cn.bing.com^
+
+# windows wallpaper
+@@|in.appcenter.ms^
+@@|fp.msedge.net^
+@@|arc.msn.com^
+@@||gamecenter.qq.com^
+
 # Windows Update
 @@||update.microsoft.com^
 @@||windowsupdate.com^
