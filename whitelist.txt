@@ -6,6 +6,8 @@
 
 # weixin
 @@|mp.weixin.qq.com^
+# 微信头像
+@@|wx.qlogo.cn^
 
 # NetEase Cloud Music
 @@||music.126.net^
