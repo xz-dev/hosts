@@ -157,3 +157,7 @@
 
 # twitch
 @@||twitch.tv^
+
+# R6 tracker
+@@||tracker.network^
+@@||apple.com^
