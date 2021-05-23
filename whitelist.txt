@@ -161,3 +161,6 @@
 # R6 tracker
 @@||tracker.network^
 @@||apple.com^
+
+# gamewikia
+@@|www.gamewikia.com^
