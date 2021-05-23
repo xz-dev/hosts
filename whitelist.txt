@@ -58,6 +58,12 @@
 @@|pcs.baidu.com^
 @@||baidupcs.com^
 
+# 阿里矢量库
+@@||iconfont.cn^
+
+# 银联商务
+@@||chinaums.com^
+
 # naifei shop
 @@||naifei.shop^
 
