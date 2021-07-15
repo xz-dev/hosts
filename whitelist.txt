@@ -3,6 +3,8 @@
 @@||idqqimg.com^
 # QQ login
 @@||graph.qq.com^
+# 手机 QQ 网址跳转
+@@|c.pc.qq.com^
 
 # 腾讯地图
 @@||map.qq.com^
