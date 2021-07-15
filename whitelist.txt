@@ -186,6 +186,9 @@
 @@||live.net^
 @@||wns.windows.com^
 
+# 微软应用中心
+@@||appcenter.ms^
+
 # Nvidia Geforce Experience
 @@||gfe.nvidia.com^
 
