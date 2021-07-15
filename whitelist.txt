@@ -17,6 +17,12 @@
 @@|smtp.163.com^
 @@|imap.163.com^
 
+# edu cn
+@@||edu.cn^
+
+# 网上共青团
+@@||zhtj.youth.cn^
+
 # huobi
 @@||huobi-global-prd.cn-hangzhou.log.aliyuncs.com^
 @@||huobiasia.club^
