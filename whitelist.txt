@@ -140,6 +140,8 @@
 @@||firebase.google.com^
 @@||analytics.google.com^
 @@|firebaselogging-pa.googleapis.com^
+@@||crashlytics.com^
+@@||googleapis.com^
 
 # bing
 @@|www.bing.com^
