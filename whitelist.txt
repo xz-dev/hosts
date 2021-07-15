@@ -4,10 +4,16 @@
 # QQ login
 @@||graph.qq.com^
 
+# 腾讯地图
+@@||map.qq.com^
+
 # weixin
 @@|mp.weixin.qq.com^
 # 微信头像
 @@|wx.qlogo.cn^
+
+# KFC（小程序）
+@@||kfc.com.cn^
 
 # NetEase Cloud Music
 @@||music.126.net^
