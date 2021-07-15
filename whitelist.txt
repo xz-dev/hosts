@@ -142,6 +142,9 @@
 # java docs
 @@|docs.oracle.com^
 
+# Google Translate
+@@||translate.google.com^
+
 # Firebase
 @@||firebase.google.com^
 @@||analytics.google.com^
