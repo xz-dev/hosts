@@ -97,6 +97,8 @@
 
 # jingdong
 @@||360buyimg.com^
+# 京东金融
+@@|mbt.jd.com^
 
 # sina
 @@|sinaimg.cn^
@@ -104,6 +106,8 @@
 # alipay app
 @@||aliapp.org^
 
+# 支付宝支付
+@@|intlmapi.alipay.com^
 
 # missevan
 @@|missevan.com^
@@ -111,6 +115,9 @@
 # douyu
 @@|gift.douyucdn.cn^
 
+# bilibili
+@@/(api.*|www|message).bilibili.com/
+@@|b23.tv^
 
 # miui connect checker
 @@|connect.rom.miui.com^
@@ -149,6 +156,9 @@
 
 # java docs
 @@|docs.oracle.com^
+
+# Cloudflare DNS for Firefox
+@@|mozilla.cloudflare-dns.com^
 
 # Google Translate
 @@||translate.google.com^
@@ -189,6 +199,12 @@
 # 微软应用中心
 @@||appcenter.ms^
 
+# 奈飞小铺
+@@|api.ihezu.cn^
+
+# Brave 浏览器
+@@||brave.com^
+
 # Nvidia Geforce Experience
 @@||gfe.nvidia.com^
 
@@ -197,6 +213,9 @@
 
 # twitch
 @@||twitch.tv^
+
+# tidal Android 客户端
+@@||sp-ad-cf.audio.tidal.com^
 
 # R6 tracker
 @@||tracker.network^
