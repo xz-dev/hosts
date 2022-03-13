@@ -1,6 +1,9 @@
 # QQ
 @@||gtimg.cn^
 @@||idqqimg.com^
+# QQ空间
+@@||qpic.cn^
+@@||jr.jd.com^
 # QQ login
 @@||graph.qq.com^
 # 手机 QQ 网址跳转
@@ -23,6 +26,13 @@
 @@||uu.163.com^
 # 163 mail
 @@|smtp.163.com^
+
+# bilibili
+@@/(space|live|live-trace|data).bilibili.com/
+@@|member.bilibili.com^
+
+# 米家
+@@||api.io.mi.com^
 @@|imap.163.com^
 
 # edu cn
@@ -32,14 +42,7 @@
 @@||zhtj.youth.cn^
 
 # huobi
-@@||huobi-global-prd.cn-hangzhou.log.aliyuncs.com^
-@@||huobiasia.club^
-@@||huobiasia.vip^
-@@||hbfile.net^
-@@||report.woodpeckerlog.com^$important
-@@||getui.com^
-@@||app-measurement.com
-@@||huobichat.com^
+@@/*huobi.*/
 
 # douyu drop
 @@|dotcounter.douyucdn.cn^
@@ -48,6 +51,10 @@
 # appchina
 @@|mobile.appchina.com^
 @@||yingyonghui.com^
+
+# 应用汇
+@@|yyb.eve.mdt.qq.com^
+@@||test.com^$client='oneplus-6t'
 
 # missevan
 @@||missevan.com^
@@ -73,15 +80,24 @@
 # baidu input
 @@|pcs.baidu.com^
 @@||baidupcs.com^
+# 百度地图
+@@||map.baidu.com^
 
 # 阿里矢量库
 @@||iconfont.cn^
 
+# 高德地图
+@@|restapi.amap.com^
+
 # 银联商务
 @@||chinaums.com^
 
-# naifei shop
-@@||naifei.shop^
+# 人脸识别
+@@||dbankcloud.cn^
+
+# 奈飞小铺
+@@||ihezu.com.cn^
+@@||ihezu.cn^
 
 # Globally Recognized Avatar
 @@||gravatar.com^
@@ -99,6 +115,10 @@
 @@||360buyimg.com^
 # 京东金融
 @@|mbt.jd.com^
+# 京东签到
+@@|qdsdk.jd.com^
+# 京东完成支付界面
+@@|wl.jd.com^
 
 # sina
 @@|sinaimg.cn^
@@ -119,6 +139,11 @@
 @@/(api.*|www|message).bilibili.com/
 @@|b23.tv^
 
+# bilibili login
+@@|passport.biligame.com^
+@@|passport.bigfun.cn^
+@@|passport.bigfunapp.cn^
+
 # miui connect checker
 @@|connect.rom.miui.com^
 
@@ -130,10 +155,8 @@
 @@|dict.eudic.net^
 @@|static.eudic.net^
 
-# bilibili login
-@@|passport.biligame.com^
-@@|passport.bigfun.cn^
-@@|passport.bigfunapp.cn^
+# 长沙地铁
+@@||hncsmtr.com^
 
 # ip.sb tool
 @@||ip.sb^
@@ -199,9 +222,6 @@
 # 微软应用中心
 @@||appcenter.ms^
 
-# 奈飞小铺
-@@|api.ihezu.cn^
-
 # Brave 浏览器
 @@||brave.com^
 
@@ -213,6 +233,10 @@
 
 # twitch
 @@||twitch.tv^
+@@||xsolla.com^
+
+# aptoide
+@@||rakam-api.aptoide.com^
 
 # tidal Android 客户端
 @@||sp-ad-cf.audio.tidal.com^
@@ -223,3 +247,6 @@
 
 # gamewikia
 @@|www.gamewikia.com^
+
+# KinhDown
+@@||bootcdn.net^
